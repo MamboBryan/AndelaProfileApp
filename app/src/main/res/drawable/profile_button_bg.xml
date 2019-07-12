@@ -6,7 +6,7 @@
         android:radius="40dp"/>
 
     <gradient
-        android:startColor="@color/secondaryColor"
+        android:startColor="@color/secondaryDarkColor"
         android:endColor="@color/secondaryDarkColor"
         android:angle="0"/>
 </shape>

@@ -1,10 +1,12 @@
 package com.mambobryan.alcone;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
 import android.net.http.SslError;
 import android.os.Bundle;
+import android.view.MenuItem;
 import android.view.View;
 import android.webkit.SslErrorHandler;
 import android.webkit.WebChromeClient;
@@ -67,5 +69,12 @@ public class AboutActivity extends AppCompatActivity {
             overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
         }
 
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        finish();
+        overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
+        return super.onOptionsItemSelected(item);
     }
 }
