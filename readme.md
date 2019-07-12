@@ -1,4 +1,4 @@
-# ALC 4.0 Phase 1 challange 
+# ![App logo](app/src/main/res/drawable/logo.png)	ALC 4.0 Phase 1 challange 
 
 This challenge is a simple Android Application with three Activities, the first Activity is the main Activity with two Buttons.
 Button 1 takes you to Activity B when clicked.
