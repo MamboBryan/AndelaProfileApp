@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">ALC one</string>
-    <string name="main_activity_display">ALC 4 Phase 1</string>
+
+    <string name="main_activity_label">ALC 4 Phase 1</string>
     <string name="main_activity_welcome">welcome to</string>
     <string name="main_activity_title">ALC 4.0</string>
     <string name="main_activity_description">
         A community empowering the next generation of African technology leaders.</string>
     <string name="button_about_alc">about</string>
     <string name="button_my_profile">profile</string>
+
+    <string name="about_activity_label">About ALC</string>
+
+    <string name="profile_activity_label">My profile</string>
+
 </resources>
