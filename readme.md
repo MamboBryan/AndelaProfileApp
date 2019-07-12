@@ -1,4 +1,4 @@
-# ALC 4.0 Phase 1 challange 
+# ![App logo](app/src/main/res/drawable/logo.png)	ALC 4.0 Phase 1 challange 
 
 This challenge is a simple Android Application with three Activities, the first Activity is the main Activity with two Buttons.
 Button 1 takes you to Activity B when clicked.
@@ -8,8 +8,8 @@ it contains only a Webview that loads the URL https://andela.com/alc/ which is t
 Activity C is your profile, it contains an ImageView which should display your photo,
 TextViews showing your name, Track, Country, Email and Phone Number.
 
-##### For app prototype [click here](https://projects.invisionapp.com/prototype/Randomy-cjvwi0tbs00907z010jfdypbj) 
-##### For final app apk [click here](https://drive.google.com/open?id=1aXPBs4-QWQeMiFYejN1WLHyVjE4_suNa) to download
+##### For app demo [click here](https://appetize.io/app/yhacw7x461h4cek1qdmbmrybb0?device=nexus5&scale=75&orientation=portrait&osVersion=8.1) 
+##### For final app apk [click here](https://drive.google.com/open?id=1M1YDD6oI1S2abMjVBYqTbYEC7Acj1dy7) to download
 
 ## Prerequisites
 You will need the following to run this project:

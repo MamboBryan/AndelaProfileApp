@@ -6,6 +6,6 @@
         android:radius="40dp"/>
     <gradient
         android:startColor="@color/primaryColor"
-        android:endColor="@color/primaryDarkColor"
+        android:endColor="@color/primaryColor"
         android:angle="0"/>
 </shape>
