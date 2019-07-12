@@ -12,5 +12,21 @@
     <string name="about_activity_label">About ALC</string>
 
     <string name="profile_activity_label">My profile</string>
+    <string name="profile_name">Brian Odhiambo</string>
+    <string name="profile_track">Android Track</string>
+
+    <string name="display_country">Country</string>
+    <string name="profile_country">Kenya</string>
+
+    <string name="display_email">Email</string>
+    <string name="profile_email">mrmambobryan@gmail.com</string>
+
+    <string name="display_number">Mobile</string>
+    <string name="profile_number">+254713516006</string>
+
+    <string name="display_slack_username">Username</string>
+    <string name="profile_slack_username">MamboBryan</string>
+    <string name="display_contact">Lets talk</string>
+
 
 </resources>
